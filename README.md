@@ -2,15 +2,6 @@
  Collaborative Filtering using Matrix Factorization
  --------------------------------------------------
 
-
-AUTHORS
--------
-
-Salma El Alaoui,
-Olivier Chancé,
-Sophia Lazraq,
-Liu Zhengying,
-
 STRUCTURE
 ---------
 
